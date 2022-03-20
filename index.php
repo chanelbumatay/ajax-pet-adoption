@@ -50,7 +50,7 @@
  
   <div id="pet_name">
        <h3>Pet Name</h3>
-       <p>Please type your pet's name:</p>
+       <p>Type your pet's name:</p>
        <input type="text" name="name" required="required">
    </div>
  
